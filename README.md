@@ -14,4 +14,3 @@
 ## Descritivo do Aluno:
 
 -> DESCREVA AQUI <-
- 
